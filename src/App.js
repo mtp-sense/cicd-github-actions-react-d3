@@ -88,7 +88,7 @@ function App() {
   };
   return (
     <div className="App">
-      <h1>Today's Temperature in Plano, Tx Area</h1>
+      <h1>Temperature in Plano, Tx Area</h1>
       <h3>
         Line Graph: Y-axis: Temp(<span>&deg;C</span>). X-axis: Time
       </h3>
